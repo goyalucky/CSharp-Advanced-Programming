@@ -127,6 +127,57 @@ The problems cover **validation**, **data extraction**, and **real-world input h
 
 ---
 
+
+### 🔹 `nunit` branch
+This branch focuses on **unit testing in C# using NUnit (and MSTest concepts)**. The problems cover **test creation, assertions, exception testing, parameterized tests, setup/teardown, and performance testing**, helping you build reliable and maintainable code.
+
+---
+
+### 📝 Practice Problems
+
+- **Basic Calculator Testing**  
+  Create a `Calculator` class with arithmetic operations and write unit tests for each method, including handling division by zero.
+
+- **Testing String Utility Methods**  
+  Test string-related methods such as reversing a string, checking palindromes, and converting strings to uppercase.
+
+- **Testing List Operations**  
+  Write unit tests to verify adding elements, removing elements, and checking the size of a list.
+
+- **Testing Exception Handling**  
+  Verify that a method throws the correct exception when invalid input (such as division by zero) is provided.
+
+- **Setup and Teardown Testing**  
+  Use setup and teardown mechanisms to initialize and clean up resources like a database connection before and after each test.
+
+- **Parameterized Tests**  
+  Test a method that checks whether a number is even using multiple input values through parameterized test cases.
+
+- **Performance Testing with Timeout**  
+  Ensure that a long-running method fails the test if it exceeds a specified execution time.
+
+- **Banking Transaction Testing**  
+  Test deposit, withdrawal, and balance operations in a bank account system, including insufficient balance scenarios.
+
+- **Password Strength Validator Testing**  
+  Write unit tests to validate password strength rules such as minimum length, uppercase letters, and digits.
+
+- **Temperature Converter Testing**  
+  Test temperature conversion methods between Celsius and Fahrenheit for correctness.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Writing **unit tests using NUnit**
+- Using **assertions and test cases**
+- Testing **exceptions and edge cases**
+- Applying **setup and teardown lifecycle methods**
+- Performing **parameterized and performance testing**
+- Improving **code reliability and test-driven thinking**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning)  
