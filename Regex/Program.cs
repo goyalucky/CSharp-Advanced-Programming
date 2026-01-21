@@ -1,11 +1,18 @@
 ﻿namespace Regex;
 using FilterEmployees;
+using UserRegistrationApp;
+using StudentScoreboardApp;
+using RegexExtractionApp;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // EmployeeMain.Start(); 
+        // EmployeeMain.Start();
+        // UserMain.Start();
+        // StudentMain.Start();
+        //  ExtractionMain.Start();
+
 
 
         // ValidateUsername.Start();
